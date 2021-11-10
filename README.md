@@ -1,3 +1,2 @@
 # git-github
-this ia wholeprocess of using git and github
-However I dont Practice it for a long
+these are some random number of problem solve in codeforces.
